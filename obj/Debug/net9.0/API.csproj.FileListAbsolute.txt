@@ -1,0 +1,6 @@
+/home/alan/Desktop/Web-Services/API/obj/Debug/net9.0/API.csproj.AssemblyReference.cache
+/home/alan/Desktop/Web-Services/API/obj/Debug/net9.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/Desktop/Web-Services/API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache
+/home/alan/Desktop/Web-Services/API/obj/Debug/net9.0/API.AssemblyInfo.cs
+/home/alan/Desktop/Web-Services/API/obj/Debug/net9.0/API.csproj.CoreCompileInputs.cache
+/home/alan/Desktop/Web-Services/API/obj/Debug/net9.0/API.MvcApplicationPartsAssemblyInfo.cache
